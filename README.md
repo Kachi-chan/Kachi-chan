@@ -1,3 +1,3 @@
 - 👀 I’m interested in ..
 
-<img src="https://tenor.com/view/osamake-anime-shirokusa-kachi-cry-sad-gif-22517172" width="100%">
+<img src="gif/osamake-anime.gif" width="100%">
