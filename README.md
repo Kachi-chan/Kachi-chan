@@ -1,3 +1,3 @@
-- 👀 I’m interested in ..
+- Hi , 👋
 
 <img src="gif/osamake-anime.gif" width="100%">
