@@ -9,7 +9,7 @@ I started self-taught programming
 
 I'm 17 y.o
 
-- I am currently learning:
+## - I AM CURRENTLY LEARNING:
 
 
 
