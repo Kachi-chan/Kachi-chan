@@ -7,7 +7,7 @@ I like programming languages
 
 I started self-taught programming
 
-I'm 17 y.o
+I'm 18 y.o
 
 ### I am currently learning:
 
