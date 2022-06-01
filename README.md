@@ -1,13 +1,13 @@
-- Hi There <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+>> Hi There <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 
-I am Rainnn
+> I am Rainnn
 
-I like programming languages
+> I like programming languages
 
-I started self-taught programming
+> I started self-taught programming
 
-I'm 18 y.o
+> I'm 18 y.o
 
 ### I am currently learning:
 
