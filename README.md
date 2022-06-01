@@ -1,9 +1,7 @@
->> Hi There <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-
-
+>> Hi There 
 > I am Rainnn
 
-> I like programming languages
+> I like programming language
 
 > I started self-taught programming
 
