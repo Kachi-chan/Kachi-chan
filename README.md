@@ -1,8 +1,8 @@
 >> Hi There 
-> I am Rainnn
-> I like programming language
-> I started self-taught programming
-> I'm 18 y.o
+> * I am Rainnn
+> * I like programming language
+> * I started self-taught programming
+> * I'm 18 y.o
 
 ### I am currently learning:
 
