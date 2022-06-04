@@ -1,5 +1,5 @@
 >> Hi There 
-> * I am ryan.
+> * I'm rain.
 > * I like programming language.
 > * I started self-taught programming.
 > * I'm 18 y.o.
