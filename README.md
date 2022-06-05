@@ -24,5 +24,10 @@
 
 
 > device im used
+
 > vivo Y9IC, realme C25Y
-> I really want to use a computer but don't have one
+
+> Pc? I dont have any
+
+> keep support me 
+
