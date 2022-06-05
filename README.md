@@ -4,7 +4,7 @@
 > * I started self-taught programming.
 > * I'm 18 y.o.
 
-# I am currently learning:
+### I am currently learning:
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -20,7 +20,9 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-# And others...
+
 
 
 > device im used
+> vivo Y9IC, realme C25Y
+> I really want to use a computer but don't have one
