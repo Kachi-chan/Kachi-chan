@@ -1,4 +1,4 @@
-> > Hi There 
+> - Hi There 
 > * I'm rain.
 > * I like programming language.
 > * I started self-taught programming.
