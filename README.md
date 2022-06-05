@@ -23,11 +23,5 @@
 
 
 
-> device im used
 
-> vivo Y9IC, realme C25Y
-
-> Pc? I dont have any
-
-> keep support me 
 
