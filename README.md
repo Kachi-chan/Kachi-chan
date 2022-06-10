@@ -1,9 +1,5 @@
-> - Hi There 
-> * I'm rain.
-> * I like programming language.
-> * I started self-taught programming.
-> * I'm 18 y.o.
 
+> * No Ingfo
 ### I am currently learning:
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
