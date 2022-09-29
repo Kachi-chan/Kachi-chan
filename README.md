@@ -13,7 +13,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
 ![C](https://img.shields.io/badge/-c-black?style=flat-square&logo=c)
-![Go](https://img.shields.io/badge/-go-black?style=flat-square&logo=go)
+![Go](https://img.shields.io/badge/-go-black?style=flat-square&logo=Go)
 ![Kotlin](https://img.shields.io/badge/-kotlin-black?style=flat-square&logo=kotlin)
 ![Shell Script](https://img.shields.io/badge/-shell_script-black?style=flat-square&logo=gnu-bash)
 ------------------
