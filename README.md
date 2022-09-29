@@ -1,7 +1,7 @@
 
 > ``` Self Taught Developer ```
 ##
- Im Currently Learning: 
+### Im Currently Learning: 
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
