@@ -11,11 +11,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=Typescript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
-![C](https://img.shields.io/badge/-c-black?style=flat-square&logo=c)
-![Go](https://img.shields.io/badge/-go-black?style=flat-square&logo=Go)
-![Kotlin](https://img.shields.io/badge/-kotlin-black?style=flat-square&logo=kotlin)
-![Shell Script](https://img.shields.io/badge/-shell_script-black?style=flat-square&logo=gnu-bash)
+![Php](https://img.shields.io/badge/-Php-black?style=flat-square&logo=php)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
+![Shell Script](https://img.shields.io/badge/-Shell_Script-black?style=flat-square&logo=gnu-bash)
 ------------------
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Rainprjkt.Rainprjkt)
