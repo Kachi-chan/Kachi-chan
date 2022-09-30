@@ -15,6 +15,7 @@
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
+![Lua](https://img.shields.io/badge/-Lua-black?style=flat-square&logo=lua)
 ![Shell Script](https://img.shields.io/badge/-Shell_Script-black?style=flat-square&logo=gnu-bash)
 ------------------
 
